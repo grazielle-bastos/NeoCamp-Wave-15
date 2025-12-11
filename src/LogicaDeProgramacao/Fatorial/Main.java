@@ -1,4 +1,4 @@
-package Exercicios.Fatorial;
+package LogicaDeProgramacao.Fatorial;
 
 import java.util.Scanner;
 

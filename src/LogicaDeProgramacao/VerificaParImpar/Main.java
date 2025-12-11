@@ -1,4 +1,4 @@
-package Exercicios.VerificaParImpar;
+package LogicaDeProgramacao.VerificaParImpar;
 
 import java.util.Scanner;
 

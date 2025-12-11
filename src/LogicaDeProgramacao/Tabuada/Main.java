@@ -1,4 +1,4 @@
-package Exercicios.Tabuada;
+package LogicaDeProgramacao.Tabuada;
 
 import java.util.Scanner;
 

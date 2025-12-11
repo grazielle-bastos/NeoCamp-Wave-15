@@ -1,4 +1,4 @@
-package Exercicios.Calculadora;
+package LogicaDeProgramacao.Calculadora;
 
 import java.util.Scanner;
 
